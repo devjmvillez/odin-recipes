@@ -1,0 +1,16 @@
+.header {
+    height: 315px;
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 85%;
+}
+
+.header-text {
+    color: #ff0202;
+    font-size: 5rem;
+    margin: auto;
+    text-align: center;
+    padding-top: 1.1em;
+    text-transform:uppercase;    
+}
